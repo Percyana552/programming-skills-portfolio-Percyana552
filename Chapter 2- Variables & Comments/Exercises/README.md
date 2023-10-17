@@ -43,7 +43,7 @@ Then print the name using each of the three stripping functions, lstrip(), rstri
 &nbsp;
 &nbsp;
 &nbsp;
-## Exercise 4: Favorite Number :ballot_box_with_check:
+""
 Ussagese a variable to represent your favorite number. Then,using that variable, create a message that reveals your favorite number. Print
 that me.
 
