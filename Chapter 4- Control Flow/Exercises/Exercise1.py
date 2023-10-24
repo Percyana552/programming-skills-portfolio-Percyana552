@@ -3,12 +3,14 @@ alien_color="green"
 if alien_color=="green" :
    print("congratulations! you got 5 points")
 
-   # passes the if test
-x=20
-if x>5:
-   print("yes")
+#write an if statment to check the alien's color is green but the alien color is yellow
 
-   #fails the if test
-   x=3
-   if x>20:
-      print(no)
+alien_color="yellow"
+if not alien_color=="green":
+   print(" you have not earnd 5 points")
+
+#write an if statment to check the alien's color is green but the alien color is yellow
+
+alien_color="red"
+if not alien_color=="green":
+     print(" sorry you didnt get the 5 points")
