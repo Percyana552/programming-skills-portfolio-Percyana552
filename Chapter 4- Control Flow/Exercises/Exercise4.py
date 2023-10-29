@@ -1,4 +1,5 @@
-#Write an if-elif-else chain that determines a person’s stage of life. Set a value for the variable age, and then:
+"""Write an if-elif-else chain that determines a person’s stage of life.
+ Set a value for the variable age, and then:"""
 age=2
 if age< 2:
     print(" you  are a baby")
