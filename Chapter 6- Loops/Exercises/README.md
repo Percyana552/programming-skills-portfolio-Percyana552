@@ -47,7 +47,7 @@ move it to the list of finished sandwiches. After all the sandwiches have been m
 &nbsp;
 
 ## Exercise 5: No Pastrami :ballot_box_with_check:
-p;
+
 &nbsp;
 
 
