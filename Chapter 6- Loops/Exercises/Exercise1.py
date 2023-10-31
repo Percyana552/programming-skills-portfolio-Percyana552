@@ -5,6 +5,7 @@
 pizza_topping=input("pizza topping: ")
 #name = pepperoni
 pizza_toppings=[]
+#While Loop
 while pizza_topping !="quit":
     pizza_toppings.append(pizza_topping)
     pizza_topping=input("another pizza topping (type 'quit' to end):")
